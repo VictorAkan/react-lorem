@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.head-start {
+  color:rgb(21, 35, 35);
+}
+.form-control {
+  width: 12rem;   
+}
+.lorem-text {
+  width: 40rem;   
+  margin-top: 3rem;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  color: rgb(3, 155, 236);
+}
+
